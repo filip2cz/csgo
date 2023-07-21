@@ -4,3 +4,5 @@ command:
 ```
 sv_cheats 1; sv_enablebunnyhopping 1; sv_autobunnyhopping 1; sv_enablebunnyhopping 1; sv_staminamax 0; sv_staminajumpcost 0; sv_staminalandcost 0; sv_staminarecoveryrate 0; sv_airaccelerate 2000; sv_accelerate_use_weapon_speed 0; sv_maxvelocity 3500; sv_cheats 0
 ```
+
+source: https://steamcommunity.com/sharedfiles/filedetails/?id=1177879522
