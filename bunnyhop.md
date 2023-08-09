@@ -10,12 +10,12 @@ after this, you can disable cheats with
 sv_cheats 0
 ```
 
-## Bunnyhop with scollup
+## Bunnyhop with scrollup
 
 If you use previous command, you can bunnyhop with just holding spacebar. But on some servers, or if you want to "bunnyhop" in official matches, you cannot do that. You need good timming, or just jump with scrollup on your mouse.
 
 ```
-bind mwheelup jump
+bind mwheelup +jump
 ```
 
 default bind for scrollup is:
